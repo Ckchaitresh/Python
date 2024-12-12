@@ -1,0 +1,401 @@
+Product ID,Product Name,Category,Price,Stock,Sales,Brand,Discount,Rating,Launch Date,Warranty Period (Years),Supplier,Product Description,Manufacture Country
+101,Monitor,Accessories,1156,482,29,Brand C,0.21,,2020-07-20,2.0,,Best in class,India
+102,Headphones,Clothing,289,305,45,Brand E,0.06,3.0,2022-01-16,1.0,Supplier B,Best in class,China
+103,Charger,Home Appliances,4942,197,106,Brand E,0.07,,2024-11-11,2.0,Supplier C,Top selling,China
+104,Laptop,Clothing,1359,328,259,Brand E,0.13,,2022-12-18,,,Affordable price,India
+105,Camera,Electronics,4382,204,166,Brand E,0.34,,2024-08-26,3.0,Supplier B,Best in class,China
+106,Laptop,Clothing,3038,182,213,Brand B,0.13,,2020-04-22,,Supplier A,Top selling,Germany
+107,Charger,Accessories,963,324,118,Brand A,0.16,4.0,2022-07-26,2.0,Supplier B,Good quality product,USA
+108,Charger,Electronics,4092,388,119,Brand A,0.05,,2021-12-30,2.0,Supplier C,,China
+109,Mouse,Home Appliances,482,400,11,Brand D,0.16,5.0,2024-08-23,,,,
+110,Charger,Clothing,2344,292,254,Brand B,0.12,5.0,2023-03-10,5.0,Supplier B,Good quality product,USA
+111,Keyboard,Home Appliances,4350,408,241,Brand C,0.24,2.0,2022-10-07,1.0,Supplier B,Affordable price,India
+112,Smartwatch,Clothing,3847,484,45,Brand D,0.19,2.0,2023-03-07,5.0,Supplier B,Best in class,Germany
+113,Keyboard,Furniture,3100,190,144,Brand C,0.13,3.0,2021-02-21,,Supplier B,Best in class,USA
+114,Camera,Electronics,1207,385,28,Brand D,0.08,3.0,2021-10-05,2.0,Supplier C,Good quality product,USA
+115,Phone,Furniture,4875,237,21,Brand E,0.09,5.0,2021-05-07,2.0,,Affordable price,China
+116,Smartwatch,Home Appliances,2255,337,71,Brand C,0.21,5.0,2022-02-25,5.0,,Affordable price,
+117,Charger,Furniture,4065,448,61,Brand E,0.24,2.0,2023-12-15,3.0,Supplier A,Top selling,India
+118,Mouse,Home Appliances,2294,14,187,Brand D,0.28,4.0,2021-07-05,2.0,Supplier A,Affordable price,
+119,Phone,Home Appliances,2731,162,256,Brand A,0.14,3.0,2022-04-20,,Supplier C,Affordable price,
+120,Mouse,Electronics,1502,371,232,Brand E,0.09,3.0,2023-02-27,2.0,,Affordable price,
+121,Keyboard,Clothing,134,499,236,Brand C,0.18,1.0,2024-09-28,3.0,Supplier C,Top selling,China
+122,Smartwatch,Furniture,346,496,114,Brand A,0.1,3.0,2024-03-23,,Supplier A,,USA
+123,Headphones,Accessories,1745,340,28,Brand D,0.13,2.0,2021-03-12,5.0,Supplier C,,India
+124,Headphones,Accessories,564,478,77,Brand D,0.32,3.0,2023-04-03,,Supplier B,,
+125,Phone,Home Appliances,3024,312,204,Brand D,0.34,1.0,2023-08-23,2.0,Supplier B,Good quality product,Germany
+126,Camera,Home Appliances,1513,218,175,Brand A,0.22,1.0,2023-08-13,,,Top selling,Germany
+127,Phone,Accessories,2909,184,296,Brand D,0.07,3.0,2024-01-30,,Supplier B,,China
+128,Mouse,Clothing,3041,193,270,Brand C,0.13,,2021-10-31,3.0,Supplier A,Affordable price,China
+129,Charger,Electronics,3225,49,172,Brand C,0.18,5.0,2023-09-08,5.0,,Affordable price,India
+130,Phone,Furniture,3785,37,221,Brand A,0.16,2.0,2022-07-28,2.0,Supplier C,Good quality product,India
+131,Keyboard,Accessories,1703,272,195,Brand C,0.19,2.0,2022-12-14,3.0,Supplier A,,USA
+132,Headphones,Furniture,996,43,164,Brand E,0.31,3.0,2023-11-13,,,Top selling,Germany
+133,Phone,Accessories,2474,436,235,Brand D,0.16,4.0,2020-09-16,5.0,,,USA
+134,Camera,Electronics,2484,322,240,Brand C,0.32,1.0,2022-06-08,,,,China
+135,Tablet,Furniture,4264,449,130,Brand D,0.15,3.0,2024-05-24,5.0,Supplier B,Best in class,Germany
+136,Charger,Accessories,1880,200,253,Brand B,0.35,5.0,2022-03-28,1.0,,Top selling,Germany
+137,Phone,Home Appliances,2787,458,113,Brand E,0.2,4.0,2022-09-25,1.0,Supplier A,,
+138,Laptop,Clothing,2924,329,72,Brand E,0.12,2.0,2022-04-18,3.0,Supplier C,Best in class,USA
+139,Smartwatch,Electronics,1131,487,187,Brand C,0.31,,2024-11-26,1.0,,,India
+140,Keyboard,Electronics,4833,115,156,Brand A,0.11,1.0,2023-11-18,,Supplier B,Affordable price,China
+141,Mouse,Furniture,2676,147,262,Brand A,0.24,4.0,2023-02-06,2.0,Supplier A,Best in class,
+142,Smartwatch,Furniture,116,184,46,Brand C,0.21,3.0,2020-02-07,1.0,,Good quality product,USA
+143,Keyboard,Home Appliances,3104,404,94,Brand C,0.11,,2024-04-25,2.0,Supplier C,,Germany
+144,Phone,Home Appliances,2342,397,269,Brand E,0.28,4.0,2021-11-12,,Supplier A,Top selling,India
+145,Mouse,Accessories,2822,486,188,Brand A,0.26,,2022-10-23,,Supplier C,Good quality product,Germany
+146,Monitor,Electronics,1943,305,50,Brand B,0.13,3.0,2022-02-04,1.0,Supplier C,Good quality product,Germany
+147,Camera,Home Appliances,4765,199,269,Brand D,0.14,,2023-08-15,,Supplier C,Affordable price,China
+148,Keyboard,Clothing,2709,25,113,Brand B,0.17,3.0,2024-05-25,1.0,Supplier B,Best in class,
+149,Headphones,Accessories,2948,480,89,Brand D,0.13,2.0,2022-08-03,2.0,,Top selling,India
+150,Laptop,Furniture,1935,387,43,Brand D,0.06,1.0,2020-12-22,1.0,Supplier B,,Germany
+151,Tablet,Home Appliances,1202,74,138,Brand B,0.09,4.0,2021-01-04,2.0,Supplier B,Affordable price,
+152,Phone,Electronics,344,97,137,Brand B,0.24,1.0,2024-04-05,3.0,Supplier B,Top selling,Germany
+153,Camera,Clothing,4959,147,104,Brand B,0.13,3.0,2021-04-03,,,Top selling,USA
+154,Laptop,Clothing,4281,417,199,Brand B,0.25,5.0,2021-11-30,1.0,Supplier B,Best in class,Germany
+155,Headphones,Electronics,1722,260,295,Brand C,0.08,3.0,2024-10-22,2.0,,Good quality product,Germany
+156,Mouse,Furniture,4126,498,1,Brand C,0.24,,2024-01-22,1.0,Supplier B,Best in class,India
+157,Smartwatch,Clothing,915,36,68,Brand B,0.13,3.0,2020-07-30,1.0,,Best in class,USA
+158,Keyboard,Accessories,1344,20,8,Brand D,0.33,3.0,2024-01-09,5.0,Supplier C,Affordable price,Germany
+159,Laptop,Clothing,3186,133,141,Brand D,0.2,1.0,2022-01-29,2.0,,Affordable price,Germany
+160,Mouse,Home Appliances,1053,368,230,Brand D,0.06,4.0,2024-12-06,2.0,Supplier C,Best in class,India
+161,Monitor,Furniture,612,14,60,Brand E,0.35,1.0,2023-04-28,2.0,Supplier A,Affordable price,China
+162,Keyboard,Electronics,420,25,91,Brand E,0.09,1.0,2024-02-19,3.0,Supplier A,Affordable price,India
+163,Camera,Clothing,4499,176,176,Brand E,0.27,3.0,2021-03-28,3.0,Supplier C,,USA
+164,Tablet,Clothing,3491,475,203,Brand B,0.09,,2021-04-27,5.0,Supplier B,,
+165,Laptop,Accessories,744,143,261,Brand B,0.35,4.0,2022-01-05,3.0,,Top selling,
+166,Camera,Clothing,1786,449,280,Brand C,0.31,2.0,2022-04-22,1.0,,Good quality product,
+167,Headphones,Clothing,1526,338,122,Brand E,0.23,4.0,2022-10-12,2.0,,Affordable price,China
+168,Monitor,Furniture,4587,198,232,Brand C,0.15,4.0,2022-05-24,1.0,Supplier A,Top selling,India
+169,Phone,Home Appliances,4094,302,137,Brand C,0.29,1.0,2021-07-04,2.0,Supplier C,Affordable price,India
+170,Phone,Accessories,2022,113,127,Brand A,0.12,,2022-06-21,2.0,,Top selling,
+171,Keyboard,Accessories,1344,140,17,Brand C,0.17,5.0,2020-06-11,5.0,Supplier C,,
+172,Laptop,Accessories,4342,135,107,Brand A,0.07,,2021-04-12,,Supplier C,Best in class,
+173,Keyboard,Home Appliances,4446,223,294,Brand A,0.1,1.0,2022-02-02,3.0,,Top selling,Germany
+174,Charger,Electronics,4276,257,259,Brand B,0.21,5.0,2024-12-28,1.0,,Affordable price,USA
+175,Smartwatch,Accessories,4964,475,57,Brand C,0.15,1.0,2024-09-15,3.0,Supplier A,,
+176,Charger,Clothing,1201,434,287,Brand D,0.23,2.0,2021-10-08,3.0,,Top selling,Germany
+177,Phone,Electronics,2093,466,82,Brand D,0.06,,2022-06-30,,,,India
+178,Monitor,Clothing,477,154,86,Brand E,0.09,1.0,2023-04-05,3.0,Supplier A,Best in class,
+179,Charger,Home Appliances,4981,269,278,Brand A,0.19,5.0,2021-03-11,5.0,,Top selling,USA
+180,Keyboard,Home Appliances,3053,254,241,Brand A,0.25,4.0,2024-03-18,,Supplier A,,India
+181,Tablet,Furniture,4271,15,181,Brand D,0.11,4.0,2020-09-11,5.0,Supplier B,,
+182,Mouse,Accessories,2237,185,142,Brand A,0.3,,2021-01-22,3.0,Supplier B,Top selling,India
+183,Mouse,Clothing,751,479,45,Brand B,0.2,4.0,2021-09-25,3.0,Supplier B,,India
+184,Keyboard,Electronics,3883,265,42,Brand B,0.13,,2023-07-28,2.0,Supplier C,Affordable price,Germany
+185,Monitor,Furniture,4945,47,297,Brand D,0.33,1.0,2021-08-07,1.0,,Best in class,USA
+186,Smartwatch,Clothing,1051,129,287,Brand C,0.25,2.0,2022-05-03,5.0,Supplier A,,Germany
+187,Headphones,Home Appliances,2700,370,261,Brand A,0.24,,2021-05-10,3.0,Supplier B,Affordable price,Germany
+188,Headphones,Electronics,1295,208,33,Brand C,0.28,2.0,2024-04-12,5.0,Supplier A,Top selling,USA
+189,Charger,Furniture,2337,224,103,Brand E,0.05,2.0,2023-06-11,2.0,Supplier C,Top selling,India
+190,Phone,Home Appliances,1627,267,179,Brand E,0.06,5.0,2021-05-01,5.0,Supplier A,Affordable price,
+191,Smartwatch,Electronics,1662,393,109,Brand C,0.29,1.0,2020-11-17,,Supplier A,Best in class,USA
+192,Laptop,Accessories,212,81,234,Brand C,0.3,3.0,2020-12-28,,,Top selling,
+193,Charger,Home Appliances,4920,492,202,Brand B,0.24,2.0,2021-10-29,2.0,,Top selling,Germany
+194,Laptop,Electronics,3441,33,220,Brand D,0.31,2.0,2022-07-04,1.0,Supplier C,Affordable price,
+195,Smartwatch,Clothing,3636,227,283,Brand E,0.11,,2021-08-19,2.0,Supplier A,Top selling,
+196,Mouse,Clothing,1790,180,288,Brand E,0.17,,2020-10-12,2.0,Supplier B,Good quality product,
+197,Laptop,Home Appliances,1442,378,138,Brand C,0.21,5.0,2021-09-02,,Supplier A,Top selling,
+198,Tablet,Accessories,323,200,250,Brand B,0.23,5.0,2022-03-28,,Supplier A,Affordable price,Germany
+199,Charger,Clothing,3435,16,236,Brand B,0.23,4.0,2022-08-13,1.0,,Best in class,Germany
+200,Mouse,Home Appliances,1898,242,186,Brand B,0.17,,2020-04-18,,Supplier C,,USA
+201,Keyboard,Electronics,4053,488,288,Brand E,0.08,5.0,2023-02-19,3.0,Supplier A,,USA
+202,Mouse,Home Appliances,1858,484,199,Brand D,0.33,,2020-04-10,,Supplier C,Affordable price,China
+203,Mouse,Clothing,2838,52,14,Brand A,0.08,4.0,2021-08-29,5.0,Supplier C,Good quality product,China
+204,Laptop,Home Appliances,1545,79,74,Brand D,0.14,,2020-03-29,5.0,Supplier A,,
+205,Camera,Accessories,3725,306,78,Brand B,0.26,1.0,2023-02-09,2.0,Supplier B,Affordable price,Germany
+206,Monitor,Clothing,1991,445,95,Brand B,0.23,2.0,2022-03-27,5.0,Supplier B,Affordable price,
+207,Monitor,Home Appliances,4999,311,149,Brand A,0.29,3.0,2024-05-01,2.0,,Affordable price,Germany
+208,Mouse,Electronics,1295,447,16,Brand B,0.28,1.0,2023-04-18,5.0,Supplier A,Top selling,Germany
+209,Laptop,Furniture,1881,151,8,Brand B,0.32,4.0,2021-01-19,2.0,Supplier C,Best in class,China
+210,Tablet,Accessories,2876,221,156,Brand D,0.09,,2024-11-30,5.0,Supplier B,Best in class,USA
+211,Keyboard,Accessories,2029,378,179,Brand B,0.22,1.0,2023-06-23,1.0,Supplier B,Top selling,China
+212,Phone,Accessories,578,299,133,Brand B,0.06,5.0,2022-12-17,2.0,Supplier A,Best in class,
+213,Headphones,Electronics,1340,195,230,Brand E,0.12,,2024-07-25,3.0,Supplier A,Good quality product,India
+214,Monitor,Furniture,3450,13,160,Brand E,0.23,1.0,2020-08-22,1.0,Supplier B,,China
+215,Camera,Electronics,4833,306,193,Brand D,0.15,5.0,2023-02-07,,,Affordable price,Germany
+216,Keyboard,Accessories,4178,90,37,Brand E,0.15,,2024-05-13,3.0,Supplier B,Good quality product,China
+217,Mouse,Furniture,3029,436,248,Brand A,0.06,4.0,2021-05-26,1.0,Supplier C,Good quality product,USA
+218,Tablet,Home Appliances,3530,60,108,Brand B,0.07,4.0,2023-09-21,2.0,Supplier C,Best in class,China
+219,Headphones,Clothing,1167,447,201,Brand C,0.21,5.0,2022-12-06,2.0,Supplier C,Affordable price,India
+220,Smartwatch,Electronics,914,472,82,Brand A,0.11,,2024-05-08,2.0,Supplier B,,India
+221,Headphones,Electronics,780,76,17,Brand C,0.28,5.0,2023-07-16,,,Best in class,
+222,Monitor,Clothing,3363,27,246,Brand B,0.27,2.0,2023-01-31,1.0,Supplier C,Top selling,India
+223,Smartwatch,Furniture,3591,485,208,Brand E,0.16,,2022-10-17,5.0,,,
+224,Tablet,Electronics,4278,164,261,Brand B,0.09,4.0,2023-01-11,,Supplier A,Best in class,India
+225,Charger,Accessories,4664,362,227,Brand D,0.2,4.0,2023-09-08,5.0,Supplier C,Good quality product,China
+226,Smartwatch,Accessories,549,325,244,Brand A,0.31,4.0,2024-03-24,3.0,Supplier B,Affordable price,Germany
+227,Phone,Home Appliances,1624,414,296,Brand D,0.26,4.0,2023-01-01,3.0,Supplier B,Top selling,
+228,Tablet,Home Appliances,3622,161,168,Brand B,0.25,5.0,2024-07-28,3.0,,Affordable price,China
+229,Headphones,Furniture,1633,112,253,Brand A,0.21,4.0,2022-03-12,2.0,,Best in class,India
+230,Laptop,Furniture,2901,101,247,Brand E,0.08,2.0,2020-05-03,5.0,Supplier C,Good quality product,Germany
+231,Keyboard,Electronics,4688,221,127,Brand B,0.22,2.0,2022-05-17,5.0,Supplier C,Good quality product,
+232,Tablet,Furniture,4911,249,66,Brand D,0.28,,2024-09-19,1.0,,Best in class,
+233,Laptop,Furniture,2476,73,25,Brand D,0.19,,2023-12-06,,Supplier B,,Germany
+234,Keyboard,Electronics,4209,416,53,Brand D,0.22,2.0,2022-10-18,5.0,Supplier C,,Germany
+235,Keyboard,Furniture,2098,347,185,Brand E,0.11,2.0,2020-05-22,,,Best in class,USA
+236,Smartwatch,Clothing,4610,403,139,Brand C,0.29,,2020-05-12,3.0,,Top selling,USA
+237,Headphones,Electronics,1046,405,156,Brand E,0.25,4.0,2024-11-30,2.0,Supplier A,Good quality product,India
+238,Keyboard,Electronics,2969,45,214,Brand D,0.34,2.0,2023-08-09,5.0,Supplier C,Best in class,
+239,Charger,Clothing,3913,304,178,Brand E,0.19,5.0,2021-05-07,5.0,Supplier A,,USA
+240,Camera,Clothing,579,113,181,Brand A,0.14,4.0,2024-11-21,5.0,Supplier B,Affordable price,USA
+241,Keyboard,Clothing,4166,203,100,Brand D,0.32,2.0,2021-05-12,5.0,Supplier C,Affordable price,China
+242,Mouse,Electronics,1214,125,272,Brand B,0.31,,2023-10-09,,,Affordable price,India
+243,Laptop,Clothing,1209,86,287,Brand D,0.27,5.0,2023-12-26,2.0,,Best in class,China
+244,Monitor,Electronics,3956,443,149,Brand A,0.05,5.0,2024-10-01,1.0,Supplier B,Affordable price,
+245,Keyboard,Accessories,1376,379,248,Brand B,0.29,5.0,2020-04-11,5.0,,Affordable price,Germany
+246,Charger,Accessories,4204,222,188,Brand A,0.25,5.0,2023-07-25,3.0,,Top selling,China
+247,Laptop,Furniture,3163,305,135,Brand E,0.23,3.0,2022-03-05,5.0,Supplier C,,China
+248,Phone,Home Appliances,1939,261,210,Brand D,0.24,3.0,2024-05-18,3.0,Supplier A,,Germany
+249,Laptop,Clothing,4588,416,71,Brand D,0.08,3.0,2024-04-21,2.0,Supplier B,Good quality product,
+250,Tablet,Home Appliances,4353,63,288,Brand E,0.06,1.0,2023-03-11,1.0,Supplier C,Good quality product,India
+251,Mouse,Clothing,1225,204,125,Brand D,0.3,4.0,2023-12-04,3.0,,Good quality product,USA
+252,Mouse,Home Appliances,4460,150,222,Brand D,0.22,3.0,2020-01-10,,Supplier B,Affordable price,Germany
+253,Keyboard,Clothing,2789,373,81,Brand B,0.12,2.0,2024-04-13,3.0,Supplier B,Best in class,India
+254,Charger,Furniture,3723,3,15,Brand D,0.22,,2022-10-09,5.0,Supplier C,Affordable price,China
+255,Monitor,Electronics,3161,27,174,Brand E,0.1,3.0,2021-12-12,5.0,Supplier A,Affordable price,USA
+256,Tablet,Accessories,1286,394,255,Brand A,0.09,3.0,2023-08-25,2.0,Supplier B,Good quality product,India
+257,Mouse,Home Appliances,1846,437,203,Brand C,0.33,4.0,2024-09-07,5.0,Supplier B,Good quality product,USA
+258,Laptop,Furniture,495,229,55,Brand A,0.19,3.0,2023-02-09,2.0,,Affordable price,China
+259,Monitor,Furniture,3296,242,79,Brand D,0.35,1.0,2024-03-27,5.0,Supplier C,Top selling,India
+260,Smartwatch,Home Appliances,2972,240,22,Brand B,0.28,,2023-10-16,2.0,Supplier A,Good quality product,Germany
+261,Mouse,Clothing,2129,178,36,Brand B,0.25,3.0,2021-08-25,5.0,Supplier A,Top selling,China
+262,Monitor,Clothing,1831,456,153,Brand A,0.3,5.0,2020-03-10,1.0,Supplier C,Good quality product,India
+263,Camera,Accessories,1475,342,133,Brand B,0.3,5.0,2021-04-10,3.0,,Best in class,China
+264,Laptop,Home Appliances,624,313,213,Brand C,0.31,3.0,2024-10-30,,,Good quality product,China
+265,Charger,Furniture,4736,286,156,Brand D,0.1,5.0,2024-08-03,,Supplier C,,Germany
+266,Phone,Electronics,2509,366,65,Brand A,0.21,4.0,2023-12-13,5.0,Supplier B,Best in class,
+267,Monitor,Furniture,368,347,61,Brand D,0.29,2.0,2023-07-20,,Supplier A,Best in class,Germany
+268,Smartwatch,Furniture,2353,205,277,Brand E,0.1,1.0,2024-03-13,2.0,,Good quality product,China
+269,Tablet,Accessories,4483,267,279,Brand E,0.19,2.0,2021-06-01,1.0,Supplier C,Good quality product,Germany
+270,Camera,Home Appliances,3595,81,185,Brand C,0.2,2.0,2024-09-09,2.0,Supplier B,Good quality product,USA
+271,Keyboard,Accessories,2916,395,94,Brand B,0.21,5.0,2023-04-26,,Supplier C,Best in class,India
+272,Charger,Accessories,4936,349,290,Brand A,0.26,2.0,2022-02-14,1.0,Supplier B,Best in class,India
+273,Headphones,Home Appliances,169,41,63,Brand B,0.23,2.0,2024-03-11,,Supplier C,Good quality product,USA
+274,Headphones,Clothing,1317,326,263,Brand B,0.09,,2020-11-04,1.0,Supplier C,Affordable price,China
+275,Smartwatch,Furniture,193,59,156,Brand C,0.34,3.0,2023-09-10,,,Affordable price,China
+276,Laptop,Electronics,303,343,101,Brand A,0.14,,2023-09-21,,Supplier C,Good quality product,India
+277,Charger,Home Appliances,3023,11,288,Brand A,0.11,4.0,2020-09-19,,Supplier A,Best in class,Germany
+278,Keyboard,Accessories,1467,177,192,Brand C,0.09,5.0,2024-07-30,3.0,Supplier A,,USA
+279,Camera,Electronics,1099,50,296,Brand E,0.15,1.0,2021-05-28,1.0,Supplier C,Affordable price,China
+280,Monitor,Furniture,4775,275,296,Brand C,0.27,4.0,2024-07-22,1.0,Supplier C,Good quality product,USA
+281,Monitor,Home Appliances,1342,465,238,Brand B,0.09,4.0,2021-08-29,,Supplier C,Good quality product,India
+282,Monitor,Furniture,679,380,241,Brand C,0.22,1.0,2024-08-27,,Supplier A,Affordable price,USA
+283,Tablet,Electronics,4290,170,34,Brand E,0.22,2.0,2024-09-25,3.0,Supplier C,Affordable price,Germany
+284,Smartwatch,Home Appliances,3696,488,30,Brand A,0.08,5.0,2021-05-11,2.0,,,USA
+285,Camera,Electronics,3051,225,87,Brand D,0.27,5.0,2022-09-11,,Supplier A,Affordable price,Germany
+286,Charger,Accessories,497,277,293,Brand C,0.06,5.0,2020-05-01,5.0,,Good quality product,China
+287,Phone,Home Appliances,2904,19,222,Brand B,0.34,1.0,2022-08-27,2.0,Supplier B,Good quality product,China
+288,Charger,Clothing,1846,472,120,Brand D,0.28,4.0,2020-08-27,5.0,Supplier B,Top selling,
+289,Phone,Clothing,3229,391,103,Brand D,0.06,2.0,2020-04-03,1.0,,Affordable price,USA
+290,Mouse,Accessories,3824,47,177,Brand B,0.18,1.0,2022-12-23,1.0,Supplier A,,China
+291,Smartwatch,Electronics,404,12,26,Brand A,0.26,2.0,2021-08-19,,Supplier C,Best in class,Germany
+292,Phone,Accessories,4125,299,46,Brand B,0.21,5.0,2022-07-16,2.0,,Top selling,USA
+293,Headphones,Furniture,3466,80,107,Brand C,0.35,3.0,2024-07-15,2.0,Supplier B,Good quality product,China
+294,Headphones,Clothing,1190,469,256,Brand D,0.12,3.0,2023-08-03,1.0,,Good quality product,India
+295,Laptop,Electronics,2917,21,24,Brand A,0.06,1.0,2023-01-18,5.0,Supplier C,,
+296,Charger,Accessories,1448,94,261,Brand B,0.15,1.0,2021-06-20,2.0,Supplier B,Affordable price,USA
+297,Headphones,Accessories,1101,384,168,Brand A,0.09,2.0,2021-12-05,5.0,Supplier C,Best in class,India
+298,Tablet,Electronics,1988,284,94,Brand C,0.26,3.0,2023-09-16,3.0,Supplier C,,China
+299,Tablet,Clothing,290,73,226,Brand D,0.27,,2023-11-02,1.0,Supplier C,Top selling,
+300,Smartwatch,Clothing,4851,120,77,Brand C,0.23,2.0,2023-12-07,2.0,Supplier B,Good quality product,USA
+301,Mouse,Furniture,3099,210,57,Brand D,0.08,5.0,2024-01-28,3.0,Supplier A,Affordable price,India
+302,Phone,Electronics,3761,408,128,Brand D,0.33,1.0,2021-06-12,,Supplier C,Good quality product,
+303,Tablet,Furniture,1682,102,281,Brand B,0.3,3.0,2024-04-09,1.0,,Top selling,China
+304,Monitor,Electronics,2923,433,259,Brand B,0.19,2.0,2021-08-12,,Supplier C,Affordable price,
+305,Headphones,Accessories,3750,493,111,Brand A,0.21,2.0,2021-01-25,3.0,Supplier C,Top selling,Germany
+306,Headphones,Clothing,920,2,276,Brand E,0.22,4.0,2020-05-18,,,Top selling,Germany
+307,Headphones,Clothing,371,12,284,Brand B,0.12,2.0,2020-07-30,1.0,Supplier B,,China
+308,Keyboard,Home Appliances,574,437,135,Brand B,0.33,1.0,2023-12-28,,Supplier B,Top selling,China
+309,Monitor,Home Appliances,3359,227,233,Brand E,0.13,1.0,2022-11-29,2.0,Supplier C,,USA
+310,Keyboard,Accessories,1649,417,17,Brand B,0.21,,2022-10-20,3.0,Supplier B,Best in class,USA
+311,Phone,Clothing,1003,383,173,Brand A,0.26,,2022-03-09,3.0,Supplier A,Good quality product,India
+312,Tablet,Clothing,736,22,201,Brand E,0.06,5.0,2024-01-13,5.0,Supplier C,Best in class,USA
+313,Headphones,Furniture,863,126,281,Brand D,0.14,4.0,2023-01-25,1.0,Supplier C,Best in class,China
+314,Tablet,Clothing,4105,368,95,Brand D,0.08,2.0,2020-08-21,3.0,Supplier A,Affordable price,
+315,Keyboard,Accessories,891,368,199,Brand B,0.21,5.0,2024-02-07,5.0,Supplier C,Top selling,
+316,Tablet,Electronics,1723,495,3,Brand B,0.2,2.0,2022-07-04,3.0,,Affordable price,USA
+317,Charger,Furniture,3174,39,293,Brand D,0.19,5.0,2021-05-02,1.0,,,India
+318,Tablet,Clothing,459,89,155,Brand D,0.13,2.0,2021-12-17,1.0,Supplier C,Best in class,
+319,Monitor,Furniture,2037,300,72,Brand E,0.06,3.0,2021-11-29,5.0,Supplier B,Affordable price,USA
+320,Mouse,Home Appliances,3787,51,18,Brand C,0.18,,2023-07-21,,Supplier C,,China
+321,Charger,Home Appliances,4040,497,76,Brand A,0.24,2.0,2020-12-22,,Supplier A,Affordable price,Germany
+322,Keyboard,Home Appliances,800,23,99,Brand E,0.13,3.0,2024-10-08,2.0,,Affordable price,India
+323,Phone,Electronics,1702,63,285,Brand D,0.23,2.0,2024-01-19,2.0,,Top selling,India
+324,Tablet,Furniture,3866,362,78,Brand C,0.17,3.0,2021-03-13,1.0,Supplier B,,India
+325,Headphones,Furniture,4572,28,280,Brand D,0.06,2.0,2024-01-11,3.0,Supplier C,Good quality product,China
+326,Monitor,Electronics,3232,483,283,Brand D,0.28,,2020-12-30,1.0,,Affordable price,Germany
+327,Phone,Home Appliances,1593,380,217,Brand E,0.31,2.0,2022-03-03,1.0,Supplier A,Good quality product,India
+328,Smartwatch,Home Appliances,2485,323,50,Brand A,0.17,4.0,2023-03-30,5.0,Supplier B,Affordable price,India
+329,Laptop,Furniture,3308,405,69,Brand D,0.28,3.0,2020-03-10,3.0,Supplier C,Affordable price,India
+330,Tablet,Clothing,4549,299,249,Brand A,0.15,3.0,2020-06-16,,Supplier B,Top selling,
+331,Mouse,Accessories,1248,361,243,Brand C,0.11,2.0,2021-10-31,2.0,Supplier A,Affordable price,Germany
+332,Monitor,Home Appliances,1631,65,263,Brand D,0.12,4.0,2023-09-01,5.0,Supplier C,Top selling,USA
+333,Laptop,Electronics,1919,190,264,Brand D,0.1,2.0,2020-03-26,,,Top selling,Germany
+334,Keyboard,Electronics,4482,113,291,Brand A,0.09,2.0,2024-09-12,5.0,Supplier A,,India
+335,Mouse,Electronics,500,498,157,Brand B,0.2,,2020-04-21,3.0,Supplier B,,Germany
+336,Tablet,Accessories,543,313,298,Brand A,0.11,2.0,2023-05-26,5.0,Supplier A,Good quality product,China
+337,Laptop,Accessories,2864,478,270,Brand C,0.09,5.0,2020-08-29,,Supplier A,Best in class,China
+338,Phone,Clothing,638,302,273,Brand E,0.25,3.0,2022-05-20,2.0,Supplier C,,
+339,Phone,Home Appliances,520,271,131,Brand D,0.3,5.0,2021-06-17,,Supplier A,Good quality product,
+340,Tablet,Accessories,778,343,59,Brand B,0.07,5.0,2022-06-30,2.0,Supplier C,,Germany
+341,Keyboard,Electronics,3467,25,12,Brand E,0.18,4.0,2024-10-20,,Supplier A,Top selling,Germany
+342,Phone,Accessories,2615,422,36,Brand C,0.1,3.0,2023-05-02,5.0,Supplier C,Good quality product,
+343,Mouse,Furniture,4363,495,22,Brand D,0.17,1.0,2024-04-06,2.0,Supplier A,Affordable price,
+344,Phone,Electronics,2252,328,63,Brand D,0.19,5.0,2023-03-14,,Supplier A,Affordable price,India
+345,Camera,Accessories,2593,92,181,Brand C,0.07,4.0,2020-08-09,1.0,Supplier B,Top selling,USA
+346,Smartwatch,Furniture,984,152,136,Brand B,0.2,2.0,2024-03-19,,Supplier B,Best in class,
+347,Tablet,Home Appliances,2966,56,180,Brand B,0.06,5.0,2020-11-27,,Supplier B,Top selling,India
+348,Headphones,Home Appliances,4083,173,130,Brand C,0.16,3.0,2022-02-24,2.0,Supplier B,Affordable price,India
+349,Mouse,Furniture,3630,443,92,Brand E,0.12,5.0,2021-09-13,,Supplier A,Best in class,
+350,Smartwatch,Accessories,4636,123,87,Brand E,0.2,5.0,2024-09-12,,,Affordable price,
+351,Tablet,Furniture,4707,391,236,Brand D,0.31,1.0,2024-01-08,,Supplier C,Top selling,Germany
+352,Mouse,Clothing,2627,55,296,Brand D,0.05,,2022-04-24,,Supplier C,Good quality product,USA
+353,Mouse,Furniture,2980,428,213,Brand E,0.23,2.0,2023-05-19,2.0,Supplier A,Affordable price,USA
+354,Charger,Accessories,2822,325,256,Brand B,0.25,4.0,2024-05-21,1.0,,Best in class,India
+355,Mouse,Electronics,1198,453,266,Brand D,0.26,1.0,2022-11-09,,,Affordable price,Germany
+356,Monitor,Electronics,1797,179,253,Brand A,0.18,2.0,2024-07-15,5.0,Supplier C,,India
+357,Smartwatch,Home Appliances,889,260,273,Brand C,0.28,1.0,2021-06-05,1.0,Supplier A,,USA
+358,Monitor,Home Appliances,4958,438,57,Brand D,0.14,3.0,2023-08-01,5.0,Supplier A,,China
+359,Camera,Accessories,2692,361,146,Brand D,0.28,1.0,2023-01-16,1.0,Supplier A,Top selling,China
+360,Headphones,Home Appliances,4616,244,234,Brand D,0.13,,2022-01-07,3.0,Supplier B,Top selling,China
+361,Phone,Accessories,2550,227,27,Brand B,0.21,3.0,2021-04-23,3.0,,Affordable price,USA
+362,Camera,Home Appliances,4368,231,294,Brand B,0.05,1.0,2020-04-11,5.0,Supplier C,Good quality product,China
+363,Keyboard,Furniture,4473,131,82,Brand E,0.17,,2023-02-07,2.0,Supplier A,Affordable price,
+364,Charger,Electronics,845,420,179,Brand A,0.17,4.0,2023-06-12,,Supplier B,Top selling,Germany
+365,Laptop,Clothing,815,154,249,Brand E,0.06,3.0,2023-03-23,1.0,,Top selling,China
+366,Smartwatch,Home Appliances,2419,32,274,Brand A,0.18,1.0,2021-08-12,5.0,Supplier C,,USA
+367,Keyboard,Home Appliances,4161,239,118,Brand B,0.18,3.0,2020-08-08,2.0,,Best in class,USA
+368,Mouse,Electronics,285,143,132,Brand D,0.2,3.0,2022-10-29,1.0,Supplier C,Affordable price,China
+369,Mouse,Furniture,4063,203,233,Brand E,0.11,4.0,2020-04-09,,Supplier A,Top selling,
+370,Tablet,Electronics,745,338,82,Brand C,0.26,3.0,2020-02-16,5.0,Supplier C,Affordable price,USA
+371,Mouse,Electronics,1443,484,266,Brand D,0.13,,2020-12-17,1.0,Supplier A,Best in class,USA
+372,Mouse,Clothing,3062,57,253,Brand D,0.11,,2023-01-17,3.0,Supplier C,Best in class,Germany
+373,Keyboard,Home Appliances,2049,93,194,Brand C,0.2,1.0,2021-12-12,,,Best in class,China
+374,Smartwatch,Home Appliances,1813,408,138,Brand E,0.06,2.0,2020-04-05,1.0,Supplier A,Best in class,China
+375,Camera,Accessories,3505,239,129,Brand A,0.29,4.0,2020-02-13,5.0,Supplier C,Affordable price,USA
+376,Camera,Home Appliances,1940,72,38,Brand B,0.15,2.0,2021-04-15,3.0,Supplier B,Top selling,
+377,Headphones,Home Appliances,1885,476,186,Brand D,0.21,5.0,2021-12-06,,Supplier B,Top selling,Germany
+378,Camera,Home Appliances,4415,65,70,Brand D,0.32,1.0,2023-07-22,5.0,Supplier C,Affordable price,USA
+379,Phone,Electronics,4401,150,283,Brand C,0.05,2.0,2022-06-05,,Supplier A,Top selling,India
+380,Keyboard,Furniture,3629,443,223,Brand D,0.31,2.0,2024-11-14,5.0,Supplier A,Good quality product,China
+381,Charger,Electronics,1399,235,214,Brand E,0.09,5.0,2023-03-05,3.0,Supplier A,,Germany
+382,Camera,Accessories,4463,480,67,Brand B,0.25,3.0,2021-03-14,3.0,Supplier C,Affordable price,Germany
+383,Monitor,Accessories,3296,410,173,Brand A,0.08,,2022-05-20,,Supplier C,Top selling,
+384,Mouse,Home Appliances,4671,129,214,Brand C,0.33,3.0,2023-06-26,,Supplier C,Top selling,USA
+385,Charger,Electronics,461,113,263,Brand C,0.18,5.0,2021-04-09,5.0,Supplier C,,USA
+386,Phone,Clothing,4286,476,134,Brand B,0.07,,2022-10-21,,,Top selling,USA
+387,Mouse,Clothing,4302,298,261,Brand D,0.05,2.0,2021-07-14,5.0,Supplier A,,Germany
+388,Laptop,Home Appliances,1732,87,238,Brand E,0.19,,2021-10-19,1.0,Supplier C,Best in class,Germany
+389,Tablet,Electronics,3748,231,280,Brand D,0.08,1.0,2020-07-30,1.0,Supplier A,Affordable price,USA
+390,Phone,Furniture,4378,425,161,Brand A,0.25,5.0,2024-08-08,2.0,Supplier B,Top selling,Germany
+391,Charger,Electronics,4143,494,38,Brand E,0.16,4.0,2020-01-10,3.0,Supplier C,,China
+392,Camera,Home Appliances,1092,352,286,Brand B,0.2,3.0,2022-03-28,3.0,Supplier A,Good quality product,India
+393,Monitor,Home Appliances,1230,320,43,Brand B,0.12,3.0,2020-11-09,,,Top selling,Germany
+394,Camera,Home Appliances,4989,470,71,Brand C,0.2,,2022-06-17,2.0,Supplier B,Best in class,
+395,Charger,Accessories,4678,495,145,Brand D,0.28,5.0,2023-04-04,5.0,,Top selling,Germany
+396,Laptop,Clothing,1022,212,202,Brand A,0.13,4.0,2022-04-05,,Supplier A,Affordable price,Germany
+397,Headphones,Furniture,2198,344,225,Brand A,0.23,4.0,2020-11-23,2.0,Supplier A,Good quality product,India
+398,Laptop,Furniture,1746,46,1,Brand B,0.22,1.0,2021-03-13,1.0,Supplier A,,Germany
+399,Monitor,Accessories,321,363,6,Brand E,0.2,2.0,2024-06-10,,Supplier C,Good quality product,China
+400,Phone,Furniture,1190,258,63,Brand C,0.06,5.0,2020-04-03,3.0,Supplier C,Top selling,China
+401,Charger,Clothing,3689,419,146,Brand E,0.18,5.0,2021-04-20,2.0,,Good quality product,India
+402,Monitor,Home Appliances,4919,316,46,Brand E,0.08,3.0,2021-04-28,1.0,Supplier B,Good quality product,
+403,Keyboard,Accessories,4529,361,162,Brand B,0.34,1.0,2021-11-30,1.0,Supplier B,,Germany
+404,Mouse,Home Appliances,3066,150,35,Brand C,0.21,3.0,2022-03-01,1.0,,Affordable price,USA
+405,Laptop,Clothing,380,486,274,Brand B,0.27,1.0,2022-02-09,5.0,,Top selling,China
+406,Mouse,Home Appliances,4450,284,13,Brand B,0.15,3.0,2024-10-15,5.0,Supplier B,Top selling,
+407,Monitor,Electronics,1892,450,132,Brand B,0.18,3.0,2023-07-03,,Supplier A,,
+408,Headphones,Electronics,3877,251,189,Brand D,0.08,,2021-11-04,1.0,Supplier B,Top selling,
+409,Smartwatch,Accessories,2052,359,273,Brand B,0.09,5.0,2021-06-21,5.0,Supplier C,Best in class,
+410,Keyboard,Clothing,3405,311,184,Brand B,0.12,,2024-08-26,5.0,Supplier A,Best in class,Germany
+411,Phone,Furniture,142,282,139,Brand C,0.17,2.0,2020-11-03,5.0,Supplier B,Best in class,China
+412,Mouse,Accessories,4795,324,97,Brand E,0.1,1.0,2024-12-01,2.0,Supplier A,Affordable price,
+413,Headphones,Furniture,3742,6,114,Brand C,0.28,3.0,2024-09-06,2.0,,Good quality product,India
+414,Mouse,Home Appliances,458,295,297,Brand B,0.25,,2023-06-19,1.0,Supplier B,Best in class,Germany
+415,Camera,Electronics,3878,342,101,Brand A,0.21,5.0,2023-07-21,2.0,Supplier B,Affordable price,India
+416,Smartwatch,Furniture,2127,102,259,Brand E,0.07,2.0,2021-01-24,1.0,Supplier B,Top selling,China
+417,Camera,Home Appliances,3918,28,81,Brand E,0.15,1.0,2021-12-30,2.0,Supplier C,Affordable price,USA
+418,Mouse,Clothing,2490,66,168,Brand E,0.2,1.0,2023-12-03,2.0,Supplier C,Affordable price,India
+419,Monitor,Accessories,2302,4,78,Brand B,0.29,1.0,2022-11-01,,Supplier A,,China
+420,Headphones,Accessories,988,190,158,Brand E,0.3,3.0,2023-12-05,2.0,Supplier C,Affordable price,China
+421,Smartwatch,Furniture,3226,81,285,Brand E,0.25,2.0,2023-02-19,3.0,,Best in class,
+422,Laptop,Clothing,1247,485,286,Brand D,0.2,2.0,2022-02-08,,,Best in class,India
+423,Monitor,Accessories,1406,456,142,Brand C,0.24,5.0,2022-11-05,,Supplier C,Affordable price,Germany
+424,Camera,Clothing,846,443,72,Brand A,0.14,2.0,2021-01-08,3.0,,,USA
+425,Headphones,Home Appliances,296,266,128,Brand B,0.16,,2020-11-09,,Supplier B,Best in class,Germany
+426,Headphones,Furniture,2949,387,21,Brand A,0.21,1.0,2022-01-26,1.0,,Good quality product,China
+427,Phone,Accessories,4659,432,205,Brand E,0.35,4.0,2021-04-07,3.0,Supplier A,Good quality product,
+428,Smartwatch,Electronics,3713,213,255,Brand C,0.07,3.0,2022-12-16,2.0,Supplier A,Affordable price,USA
+429,Mouse,Home Appliances,392,273,149,Brand E,0.34,5.0,2024-07-21,,Supplier C,Best in class,India
+430,Charger,Accessories,1780,216,203,Brand D,0.07,3.0,2022-02-03,,Supplier A,Top selling,India
+431,Smartwatch,Furniture,1837,19,166,Brand D,0.27,2.0,2023-01-07,,Supplier B,,India
+432,Charger,Home Appliances,1846,8,300,Brand D,0.11,4.0,2024-05-28,2.0,Supplier A,,
+433,Smartwatch,Electronics,2444,271,92,Brand B,0.15,2.0,2023-04-20,5.0,,,China
+434,Laptop,Home Appliances,256,83,134,Brand B,0.2,1.0,2021-12-11,3.0,Supplier B,Best in class,USA
+435,Smartwatch,Clothing,1869,419,18,Brand C,0.06,3.0,2020-01-07,5.0,Supplier B,Best in class,USA
+436,Tablet,Home Appliances,4618,68,11,Brand C,0.18,1.0,2020-02-10,1.0,Supplier B,Top selling,USA
+437,Phone,Furniture,4011,444,289,Brand E,0.11,3.0,2023-09-17,3.0,,Good quality product,
+438,Charger,Electronics,801,20,243,Brand C,0.12,,2020-12-24,1.0,Supplier B,Affordable price,
+439,Charger,Furniture,1979,451,195,Brand E,0.2,2.0,2021-07-17,,Supplier B,Top selling,USA
+440,Charger,Clothing,2475,121,181,Brand B,0.16,,2021-10-15,3.0,Supplier C,,India
+441,Charger,Accessories,4104,349,156,Brand B,0.06,1.0,2022-10-05,,Supplier B,Affordable price,Germany
+442,Keyboard,Clothing,4239,143,18,Brand E,0.12,5.0,2021-09-02,,Supplier B,,USA
+443,Laptop,Home Appliances,4207,145,36,Brand E,0.32,2.0,2020-04-09,1.0,Supplier B,Top selling,USA
+444,Smartwatch,Furniture,4724,381,195,Brand D,0.24,1.0,2020-08-11,5.0,Supplier A,Affordable price,USA
+445,Charger,Clothing,2930,336,38,Brand D,0.24,2.0,2020-10-03,,Supplier C,Good quality product,China
+446,Charger,Accessories,2391,442,265,Brand A,0.08,5.0,2024-04-09,3.0,Supplier C,Best in class,Germany
+447,Camera,Accessories,4815,151,161,Brand C,0.28,5.0,2023-04-10,5.0,Supplier C,Affordable price,
+448,Mouse,Electronics,101,313,251,Brand A,0.22,1.0,2024-02-15,,Supplier A,Affordable price,
+449,Keyboard,Clothing,4190,31,177,Brand C,0.26,2.0,2024-12-28,5.0,Supplier B,,
+450,Keyboard,Home Appliances,2105,405,147,Brand D,0.07,,2021-11-04,5.0,,Top selling,China
+451,Smartwatch,Electronics,3540,443,156,Brand B,0.35,3.0,2022-03-14,1.0,Supplier C,Affordable price,USA
+452,Keyboard,Accessories,2183,381,129,Brand A,0.33,2.0,2024-05-12,,Supplier B,Best in class,USA
+453,Monitor,Home Appliances,3992,479,240,Brand B,0.35,,2021-06-07,1.0,,Affordable price,
+454,Monitor,Clothing,2630,203,266,Brand B,0.16,2.0,2020-03-05,1.0,Supplier C,Good quality product,India
+455,Camera,Furniture,1688,71,167,Brand E,0.25,2.0,2020-10-12,2.0,Supplier A,,USA
+456,Camera,Electronics,1274,481,227,Brand A,0.33,2.0,2021-09-30,3.0,Supplier C,Top selling,
+457,Phone,Accessories,3276,356,88,Brand E,0.32,5.0,2022-09-05,2.0,Supplier B,Affordable price,China
+458,Laptop,Furniture,1303,265,11,Brand A,0.08,4.0,2024-12-13,1.0,Supplier B,Top selling,
+459,Keyboard,Clothing,1873,243,67,Brand D,0.24,2.0,2024-05-09,,Supplier A,Good quality product,India
+460,Camera,Clothing,541,379,49,Brand A,0.26,5.0,2020-03-18,2.0,,Good quality product,China
+461,Charger,Home Appliances,2925,356,179,Brand A,0.21,4.0,2023-05-28,1.0,Supplier A,Affordable price,USA
+462,Laptop,Clothing,2631,462,48,Brand E,0.18,,2023-03-30,,Supplier C,Affordable price,India
+463,Monitor,Home Appliances,272,372,30,Brand B,0.14,,2024-08-13,2.0,,Best in class,USA
+464,Monitor,Furniture,3499,29,135,Brand D,0.07,2.0,2024-03-23,1.0,,Best in class,Germany
+465,Mouse,Accessories,2329,115,85,Brand A,0.08,,2021-09-05,1.0,Supplier B,Good quality product,Germany
+466,Headphones,Home Appliances,2736,104,2,Brand E,0.15,5.0,2022-10-11,,Supplier B,,
+467,Charger,Electronics,683,268,96,Brand A,0.06,2.0,2021-06-17,1.0,Supplier C,Top selling,India
+468,Monitor,Electronics,446,243,80,Brand A,0.16,3.0,2021-12-29,5.0,Supplier A,Top selling,USA
+469,Headphones,Accessories,1005,388,170,Brand C,0.32,4.0,2024-02-23,3.0,Supplier C,Good quality product,
+470,Monitor,Electronics,4420,121,270,Brand E,0.14,2.0,2023-01-02,2.0,,Top selling,China
+471,Camera,Clothing,249,9,256,Brand D,0.2,,2023-03-01,5.0,Supplier B,Affordable price,Germany
+472,Keyboard,Electronics,3490,206,275,Brand C,0.11,,2020-09-16,3.0,,Good quality product,China
+473,Smartwatch,Accessories,3837,156,20,Brand D,0.07,5.0,2021-10-24,,Supplier B,Top selling,
+474,Laptop,Clothing,4489,391,144,Brand B,0.24,3.0,2023-05-19,1.0,Supplier C,Good quality product,USA
+475,Headphones,Accessories,4468,375,255,Brand D,0.25,3.0,2022-08-21,2.0,Supplier B,Best in class,India
+476,Smartwatch,Furniture,4738,235,149,Brand C,0.15,3.0,2021-06-28,1.0,Supplier C,,China
+477,Mouse,Home Appliances,4640,129,163,Brand E,0.05,4.0,2022-08-10,2.0,Supplier A,Affordable price,China
+478,Keyboard,Accessories,702,282,60,Brand A,0.28,,2021-09-29,1.0,,Best in class,USA
+479,Phone,Furniture,1985,258,146,Brand E,0.32,2.0,2022-05-09,1.0,Supplier C,Affordable price,USA
+480,Smartwatch,Clothing,1575,479,183,Brand A,0.25,,2022-09-22,1.0,Supplier A,Top selling,USA
+481,Charger,Electronics,1134,239,52,Brand A,0.09,4.0,2023-08-19,,,Best in class,Germany
+482,Monitor,Electronics,2149,353,138,Brand B,0.08,,2024-01-07,,,,USA
+483,Laptop,Home Appliances,3996,220,105,Brand E,0.07,4.0,2021-07-27,,Supplier B,,USA
+484,Phone,Electronics,3326,194,191,Brand E,0.25,,2020-04-10,3.0,Supplier B,Affordable price,Germany
+485,Monitor,Clothing,4377,346,112,Brand D,0.2,4.0,2023-05-04,5.0,Supplier A,Best in class,USA
+486,Mouse,Furniture,2634,51,242,Brand C,0.12,5.0,2022-02-04,5.0,Supplier B,Best in class,India
+487,Mouse,Clothing,3918,450,139,Brand A,0.25,1.0,2023-10-27,1.0,Supplier B,Affordable price,
+488,Headphones,Electronics,4440,301,51,Brand A,0.33,3.0,2023-08-19,1.0,Supplier B,,China
+489,Monitor,Clothing,4307,443,57,Brand A,0.2,5.0,2022-07-01,2.0,Supplier B,,Germany
+490,Camera,Accessories,2949,456,202,Brand E,0.3,,2024-10-16,5.0,Supplier A,Best in class,USA
+491,Charger,Home Appliances,4850,123,173,Brand D,0.08,3.0,2020-02-24,2.0,Supplier C,Affordable price,
+492,Camera,Furniture,1350,253,266,Brand C,0.29,5.0,2021-03-02,3.0,Supplier C,Good quality product,India
+493,Tablet,Home Appliances,3581,7,11,Brand E,0.15,4.0,2021-12-09,1.0,Supplier B,Affordable price,India
+494,Keyboard,Home Appliances,4314,66,8,Brand E,0.2,3.0,2020-03-14,2.0,Supplier C,Good quality product,USA
+495,Charger,Furniture,2980,386,137,Brand B,0.08,,2022-08-15,3.0,Supplier C,Top selling,India
+496,Tablet,Accessories,829,285,197,Brand E,0.22,5.0,2020-03-04,5.0,,Good quality product,India
+497,Keyboard,Home Appliances,4762,244,149,Brand E,0.34,2.0,2024-07-01,2.0,,Top selling,China
+498,Monitor,Accessories,478,413,88,Brand C,0.3,4.0,2023-04-13,3.0,Supplier A,,China
+499,Charger,Furniture,3005,302,226,Brand E,0.14,2.0,2020-06-15,2.0,Supplier B,,India
+500,Monitor,Electronics,3403,255,97,Brand B,0.18,3.0,2021-01-13,1.0,Supplier B,Top selling,Germany
