@@ -1,0 +1,8 @@
+deviceid	customerid	price	alerts	location	state
+1	11	100	14	Bengaluru	KA
+2	22	"""200"""	25	Mysuru	KA
+3	33	300	6	AP	
+4	44	ten	7	Chennai	TN
+5		250	8	Hubballi	KA
+6	66	600	9	Bidar	KA
+7	77		7	Belagavi	KA
